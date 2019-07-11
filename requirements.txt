@@ -2,7 +2,6 @@ pip>=19.1.1
 #Twisted>=18.9.0
 scrapy
 scrapyd>=1.2.1
-scrapy-redis
 logparser==0.8.1
 asn1crypto==0.24.0
 attrs==19.1.0
@@ -45,7 +44,6 @@ requests==2.21.0
 Scrapy==1.6.0
 scrapy-redis==0.6.8
 scrapy-splash==0.7.2
-scrapyd==1.2.0
 scrapyd-client==1.1.0
 selenium==3.141.0
 service-identity==18.1.0
